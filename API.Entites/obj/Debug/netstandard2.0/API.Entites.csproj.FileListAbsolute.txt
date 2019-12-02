@@ -1,0 +1,8 @@
+E:\AngularComplite\Angular.NetCoreAPI\API.Entites\bin\Debug\netstandard2.0\API.Entites.deps.json
+E:\AngularComplite\Angular.NetCoreAPI\API.Entites\bin\Debug\netstandard2.0\API.Entites.dll
+E:\AngularComplite\Angular.NetCoreAPI\API.Entites\bin\Debug\netstandard2.0\API.Entites.pdb
+E:\AngularComplite\Angular.NetCoreAPI\API.Entites\obj\Debug\netstandard2.0\API.Entites.csprojAssemblyReference.cache
+E:\AngularComplite\Angular.NetCoreAPI\API.Entites\obj\Debug\netstandard2.0\API.Entites.AssemblyInfoInputs.cache
+E:\AngularComplite\Angular.NetCoreAPI\API.Entites\obj\Debug\netstandard2.0\API.Entites.AssemblyInfo.cs
+E:\AngularComplite\Angular.NetCoreAPI\API.Entites\obj\Debug\netstandard2.0\API.Entites.dll
+E:\AngularComplite\Angular.NetCoreAPI\API.Entites\obj\Debug\netstandard2.0\API.Entites.pdb
