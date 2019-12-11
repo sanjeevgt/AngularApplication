@@ -1,0 +1,4 @@
+ string userName = System.Security.Principal.WindowsIdentity.GetCurrent().Name;
+            string app = "app";
+            var result = await apiService.GetRecord($"https://localhost:44343/api/WinAuth/GetWinUserName?userName='{userName}'& appName='{app}'");
+            return Ok(result);
