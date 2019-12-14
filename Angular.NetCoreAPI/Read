@@ -3,3 +3,10 @@
             var result = await apiService.GetRecord($"https://localhost:44343/api/WinAuth/GetWinUserName?userName='{userName}'& appName='{app}'");
             return Ok(result);
 
+
+1 Delete Validatetask method.
+2. Remove task method before  Validatetask(_httpClient.GetAsync(_remoteServiceBaseUrl));
+3. append await  _httpClient.GetAsync(_remoteServiceBaseUrl);
+4. use async public async Task<User> GetUserdata(string _remoteServiceBaseUrl, int userid)
+{
+}
